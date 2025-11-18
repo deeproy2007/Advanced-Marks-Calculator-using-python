@@ -1,0 +1,13 @@
+# Tools Used in This Project
+
+* **Python** – Main programming language
+* **Pandas** – For data loading, cleaning, calculation, and CSV export
+* **Matplotlib** – For generating bar chart and pie chart visualizations
+
+## Installation
+
+Install required libraries:
+
+```bash
+pip install pandas matplotlib
+```
